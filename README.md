@@ -1,5 +1,5 @@
 # Learning-Javacript
-avaScript is a versatile and powerful programming language widely used for web development. This repository aims to provide comprehensive coverage of essential JavaScript concepts, including but not limited to:
+JavaScript is a versatile and powerful programming language widely used for web development. This repository aims to provide comprehensive coverage of essential JavaScript concepts, including but not limited to:
 
 Arrays: Learn how to work with arrays, including methods for manipulation, iteration, and transformation.
 
